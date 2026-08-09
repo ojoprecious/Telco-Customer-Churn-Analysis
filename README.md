@@ -9,7 +9,7 @@
 
 This project investigates **customer churn** at ABC Communications Ltd, a telecommunications company seeking to understand why customers leave and how to retain them. Using the Telco Customer Churn dataset (7,043 customers × 21 features), I performed data cleaning, exploratory data analysis (EDA), and visualization to uncover churn drivers and deliver actionable business recommendations.
 
-**Overall churn rate: 26.6%** — more than 1 in 4 customers leave the company.
+**Overall churn rate: 26.5%** — more than 1 in 4 customers leave the company.
 
 ---
 
