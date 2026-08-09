@@ -60,7 +60,7 @@ This project investigates **customer churn** at ABC Communications Ltd, a teleco
 | 8 | Box Plot — Monthly Charges vs Churn | Price sensitivity |
 | 9 | Correlation Heatmap | Numeric relationships |
 
-All charts are saved in the `visualizations/` folder.
+Plots are embedded in the jupyter notebook
 
 ---
 
